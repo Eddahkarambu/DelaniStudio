@@ -63,3 +63,23 @@
   text-align: center;
   color: white;
 }
+.header1{
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  width:93%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.parent{
+  display: flex;
+  justify-content: space-around;
+}
+.designn{
+  text-align: center;
+}.productt{
+  text-align: center;
+}
+.developmentt{
+  text-align: center;
+}
