@@ -5,6 +5,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
 }
 .logo{
 
@@ -31,7 +32,7 @@
   display: flex;
   align-items: center;
   position: absolute;
-  bottom: 0;
+  bottom: 40px;
 }
 .header{
   text-align: center;
@@ -40,7 +41,25 @@
   margin-top: 20px;
 }
 .statements p{
-
     text-align: center;
+}
+.image2{
+  background: url('../images/backgrounds/s_image.jpg') no-repeat;
+  height: 500px;
+  background-size: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 
+}
+.services_header{
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+.services{
+  text-align: center;
+  color: white;
 }
