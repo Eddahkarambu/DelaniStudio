@@ -95,7 +95,49 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  width: 80%;
+  width: 90%;
   margin:auto;
-  
+
+}
+.item{
+  margin-top:20px;
+}
+.contacts{
+  background: url('../images/backgrounds/c_image.jpg') no-repeat;
+  height: 500px;
+  background-size: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 50px;
+}
+.contact{
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+
+}
+.form{
+  display: flex;
+  margin-bottom: 50px;
+  justify-content: space-around;
+  padding-top: 20px
+
+}
+input{
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  width:350px;
+
+}
+::placeholder{
+  color:white;
+}
+textarea{
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
 }
