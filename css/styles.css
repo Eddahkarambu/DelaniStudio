@@ -83,3 +83,19 @@
 .developmentt{
   text-align: center;
 }
+.header3{
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  width:93%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.all{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 80%;
+  margin:auto;
+  
+}
