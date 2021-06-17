@@ -33,3 +33,14 @@
   position: absolute;
   bottom: 0;
 }
+.header{
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 20px;
+}
+.statements p{
+
+    text-align: center;
+
+}
