@@ -1,19 +1,20 @@
 # Author
 Eddah Karambu
 #### Description
+Delani Studio offers a full range of services including brand strategy, interaction and visual design and user experience testing.All engineers are fluent in the latest enterprise, mobile and web development technologies whereby they collaborate  with your team to write code on a daily basis .
 
 
 
 #### By **Eddah Karambu**
 
 ## Setup/Installation Requirements
-* Git clone this project at
+* Git clone this project at https://github.com/Eddahkarambu/DelaniStudio.git
 * Cd into DealaniStudio
 * open the project with atom by typing `atom .`
 * To view it in browser click `option + w` command
 
 ## Technologies Used
-This website uses  scripts.js , HTML , and bootstrap
+This website uses  CSS, HTML, JavaScript, JQuery, Bootstrap.
 ## Support and contact details
 incase of any questions or  facing any difficulties you can  contact Eddah karambu via email.
 gikundaeddah@gmail.com
