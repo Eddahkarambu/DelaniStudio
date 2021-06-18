@@ -117,16 +117,20 @@
 }
 .item{
   margin-top:20px;
+  position: relative;
 }
 .contacts{
   background: url('../images/backgrounds/c_image.jpg') no-repeat;
-  height: 500px;
+
   background-size: 100%;
+  object-fit: cover;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   margin-top: 50px;
+  height: 500px;
+
 }
 .contact{
   font-weight: bold;
@@ -178,4 +182,51 @@ textarea{
 }
 .Pr{
   display: none;
+}
+.work4{
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  height: 100%;
+  width: 100%;
+  background: #6d88b5;
+  opacity: 0.8;
+  display: none;
+}
+.W1 {
+  display: none;
+}
+.W2 {
+  display: none;
+}
+.W3 {
+  display: none;
+}
+.W4 {
+  display: none;
+}
+.W5 {
+  display: none;
+}
+.W6 {
+  display: none;
+}
+.W7 {
+  display: none;
+}
+.W8 {
+  display: none;
+}
+
+.submite{
+  font-size: 50px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  padding: 20px;
 }
