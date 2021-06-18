@@ -73,15 +73,31 @@
 }
 .parent{
   display: flex;
+  flex: 1;
   justify-content: space-around;
+
+}
+.design{
+  text-align: center;
+  flex:1;
+}
+.product{
+  text-align: center;
+  flex:1;
+
+}
+.icon{
+  text-align: center;
+  flex:1;
 }
 .designn{
-  text-align: center;
-}.productt{
-  text-align: center;
+  font-weight: bold;
 }
-.developmentt{
-  text-align: center;
+.productt{
+  font-weight: bold;
+}
+.develpmentt{
+  font-weight: bold;
 }
 .header3{
   font-weight: bold;
@@ -140,4 +156,26 @@ textarea{
   background-color: transparent;
   color: white;
   border: 1px solid white;
+}
+.studio{
+  display: flex;
+  padding-top: 40px;
+  justify-content: center;
+
+}
+.two{
+  margin: 10px;
+}
+.year{
+  text-align: center;
+}
+.P{
+  display: none;
+
+}
+.D{
+  display: none;
+}
+.Pr{
+  display: none;
 }
